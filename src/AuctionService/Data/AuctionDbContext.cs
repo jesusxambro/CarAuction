@@ -1,7 +1,7 @@
 using AuctionService.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace AuctionService.Data
+namespace AuctionService.Data;
 
 public class AuctionDbContext : DbContext
 {
